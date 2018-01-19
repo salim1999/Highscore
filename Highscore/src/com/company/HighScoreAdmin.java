@@ -1,6 +1,8 @@
 package com.company;
 
 import java.io.BufferedReader;
+import java.io.BufferedReader;
+import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
@@ -13,38 +15,33 @@ public class HighScoreAdmin {
     String submit(String name, String dateTime, String level, int finishTime){
 
         String saveMessage = save(new HighScore(name, dateTime, level, finishTime));
-
+        return saveMessage;
     }
-<<<<<<< HEAD
-    HighScore[] getHighScored(String level){
-return null;
-=======
 
     HighScore[] getHighScored(String level){
-        load();
->>>>>>> e23f2c0cbc2f03f3efdcee88e66256525aff54c1
+        HighScore= new String[]{"1"};
+        return HighScore[];
     }
 
     String save(HighScore hs){
-        HighScore[] highScores = load();
-        
-    }
+        String startDir = System.getProperty("user.dir");
+        String[] highScores = load(startDir+"\\highscore.csv");
 
-<<<<<<< HEAD
-  public String[]  load(String Path){
+    }
+    public String[]  load(String Path){
 
         String csvFile = Path;
         BufferedReader br = null;
         String line = "";
         String cvsSplitBy = ",";
-      String[] Statistic = new String[101];
+        String[] Statistic = new String[101];
         try {
 
             br = new BufferedReader(new FileReader(csvFile));
             while ((line = br.readLine()) != null) {
 
                 // use comma as separator
-                 Statistic = line.split(cvsSplitBy);
+                Statistic = line.split(cvsSplitBy);
 
 
 
@@ -64,10 +61,6 @@ return null;
                 }
             }
         }
-
-=======
-    HighScore[] load(){
->>>>>>> e23f2c0cbc2f03f3efdcee88e66256525aff54c1
-
     }
+
 }
