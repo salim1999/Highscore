@@ -9,15 +9,28 @@ import java.io.IOException;
  * Created by brian on 19.01.2018.
  */
 public class HighScoreAdmin {
+
     String submit(String name, String dateTime, String level, int finishTime){
-        return "";
+
+        String saveMessage = save(new HighScore(name, dateTime, level, finishTime));
+
     }
+<<<<<<< HEAD
     HighScore[] getHighScored(String level){
 return null;
+=======
+
+    HighScore[] getHighScored(String level){
+        load();
+>>>>>>> e23f2c0cbc2f03f3efdcee88e66256525aff54c1
     }
 
-    void save(){}
+    String save(HighScore hs){
+        HighScore[] highScores = load();
+        
+    }
 
+<<<<<<< HEAD
   public String[]  load(String Path){
 
         String csvFile = Path;
@@ -52,6 +65,9 @@ return null;
             }
         }
 
+=======
+    HighScore[] load(){
+>>>>>>> e23f2c0cbc2f03f3efdcee88e66256525aff54c1
 
     }
 }

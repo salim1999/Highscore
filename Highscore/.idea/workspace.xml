@@ -29,6 +29,7 @@
       <file leaf-file-name="HighScoreAdmin.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/HighScoreAdmin.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="187">
               <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding>
@@ -37,6 +38,13 @@
                 <element signature="e#322#323#0" expanded="true" />
                 <element signature="e#367#368#0" expanded="true" />
                 <element signature="e#386#387#0" expanded="true" />
+=======
+            <state relative-caret-position="323">
+              <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+>>>>>>> e23f2c0cbc2f03f3efdcee88e66256525aff54c1
               </folding>
             </state>
           </provider>
@@ -55,8 +63,13 @@
       <file leaf-file-name="HighScore.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/HighScore.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="85">
               <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+=======
+            <state relative-caret-position="272">
+              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+>>>>>>> e23f2c0cbc2f03f3efdcee88e66256525aff54c1
               <folding />
             </state>
           </provider>
@@ -80,7 +93,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/company/highscore.csv" />
+=======
+        <option value="$PROJECT_DIR$/src/com/company/HighScore.java" />
+>>>>>>> e23f2c0cbc2f03f3efdcee88e66256525aff54c1
         <option value="$PROJECT_DIR$/src/com/company/HighScoreAdmin.java" />
       </list>
     </option>
@@ -562,13 +579,21 @@
       <option name="presentableId" value="Default" />
       <updated>1516365849154</updated>
       <workItem from="1516365850638" duration="22000" />
+<<<<<<< HEAD
       <workItem from="1516366854783" duration="510000" />
       <workItem from="1516367699954" duration="1352000" />
+=======
+      <workItem from="1516366854783" duration="2190000" />
+>>>>>>> e23f2c0cbc2f03f3efdcee88e66256525aff54c1
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1884000" />
+=======
+    <option name="totallyTimeSpent" value="2212000" />
+>>>>>>> e23f2c0cbc2f03f3efdcee88e66256525aff54c1
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -697,16 +722,27 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/company/Highscores" />
     <entry file="file://$PROJECT_DIR$/src/com/company/highscore.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="23" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/company/Highscores">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> e23f2c0cbc2f03f3efdcee88e66256525aff54c1
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/company/HighScore.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/company/highscore.csv">
+>>>>>>> e23f2c0cbc2f03f3efdcee88e66256525aff54c1
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
@@ -714,8 +750,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/HighScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/HighScoreAdmin.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="187">
           <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding>
@@ -724,6 +769,13 @@
             <element signature="e#322#323#0" expanded="true" />
             <element signature="e#367#368#0" expanded="true" />
             <element signature="e#386#387#0" expanded="true" />
+=======
+        <state relative-caret-position="323">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+>>>>>>> e23f2c0cbc2f03f3efdcee88e66256525aff54c1
           </folding>
         </state>
       </provider>
