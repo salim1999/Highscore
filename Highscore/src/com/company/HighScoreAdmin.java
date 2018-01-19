@@ -19,8 +19,7 @@ public class HighScoreAdmin {
     }
 
     HighScore[] getHighScored(String level){
-        HighScore= new String[]{"1"};
-        return HighScore[];
+        return HighScore;
     }
 
     String save(HighScore hs){
